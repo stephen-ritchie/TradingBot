@@ -1,0 +1,4 @@
+# Things I need to be able to do
+- identify if stock is in uptrend or downtrend
+- keep track of moving averages (50day, 100day, 200day, etc)
+- exponential moving average https://www.investopedia.com/terms/e/ema.asp
